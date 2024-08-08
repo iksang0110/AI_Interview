@@ -12,6 +12,25 @@ AI 모의면접 플랫폼은 구직자들이 실제 면접 환경을 시뮬레�
 - 다양한 산업 및 직무별 질문 데이터베이스
 - 사용자 친화적인 대시보드
 
+# 홈 화면 
+<img width="1079" alt="홈" src="https://github.com/user-attachments/assets/a4888631-b304-4ffe-af4e-1a7649fdc4c1">
+
+# 서비스 소개
+<img width="1079" alt="서비스소개" src="https://github.com/user-attachments/assets/6c55e0ca-3967-49dd-a237-33a728ecca37">
+
+# 이용 요금
+<img width="1079" alt="이용요금" src="https://github.com/user-attachments/assets/34184774-9f7a-4bc0-bba5-f72589072958">
+
+# 고객센터
+<img width="1079" alt="고객센터" src="https://github.com/user-attachments/assets/b8b47aea-9dd7-4ceb-b730-7494825075e4">
+
+# 로그인
+<img width="1079" alt="로그인" src="https://github.com/user-attachments/assets/fc282428-0a87-460a-9cb4-f7c5165ea42d">
+
+# 회원가입
+<img width="1079" alt="회원가입" src="https://github.com/user-attachments/assets/0c7b2dc8-91f3-4988-8518-a69c637b740f">
+
+
 ## 기술 스택
 
 - Frontend: React.js
